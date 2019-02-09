@@ -1,0 +1,12 @@
+select top num B.Body, A.Body
+from Posts as B
+join Posts as A on B.AcceptedAnswerId = A.Id
+where B.CreationDate = date
+and B.Tags like '%python%'
+and B.AcceptedAnswerId is not null
+and A.Body like '%code%'
+order by B.CreationDate desc
+
+Link: https://data.stackexchange.com/stackoverflow/query/new
+Explanation: We are choosing all pieces of code that are python questions and have an accepted answer.
+From there we are joining the accepted answer and returning a pair of the question body and the accepted answer body.

@@ -1,0 +1,7 @@
+-Write crawler to grab links from StackOverflow questions with label 'python' sorted by click frequency with
+ an accepted answer
+-Store as text file
+-Write crawler to grab [question (header), answer (accepted answer)] pairs
+-Reduce question to code description and vectorize
+-Vectorize code
+-Fit RNN to code/description pairs
