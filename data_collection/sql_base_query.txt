@@ -1,10 +1,10 @@
-select top num B.Body, A.Body
+select top 500000 B.Body, A.Body
 from Posts as B
 join Posts as A on B.AcceptedAnswerId = A.Id
-where B.CreationDate = date
-and B.Tags like '%python%'
+where B.Tags like '%python%'
 and B.AcceptedAnswerId is not null
-and A.Body like '%code%'
+and A.Body like '%<code>%'
+and A.ParentId = B.Id
 order by B.CreationDate desc
 
 Link: https://data.stackexchange.com/stackoverflow/query/new
