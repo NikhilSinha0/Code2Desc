@@ -1,0 +1,192 @@
+Input sentence: final list with tokenized words tokenized final iterating over each string in data for in data calliing preprocess text function token preprocess text tokenized final append token flattened tokeninized final for in tokeninized final for in
+Decoded sentence: How How Python 
+
+Input sentence: re re dotall findall search re escape import re result give me some text aaaaaaaaaaaaaaaaaa     epppp aaaaaaaaaaaaaaaaaa with formatting re search format re escape result re with concatenation re search re escape result re print group
+Decoded sentence: How How Python 
+
+Input sentence: searchsorted def yourfunc items pivot items np sort items if np searchsorted items return items np searchsorted items else return items np searchsorted items yourfunc ary1 out datetime datetime yourfunc ary2 out datetime datetime ary1 np array pd datetime pd datetime pd datetime ary2 np array pd datetime pd datetime pd datetime pd datetime
+Decoded sentence: How How Python 
+
+Input sentence: df2 pd dataframe row data columns settlement date short interest avg daily share volume days to cover df short interests df short interests append df2
+Decoded sentence: How How Python 
+
+Input sentence: marks append students and marks    students and marks marks students and marks marks nested marks nested marks append marks nested marks  int nested marks traceback most recent call last file stdin line in module typeerror int argument must be string bytes like object or number not list students and marks linus david students students and marks students linus david marks students and marks marks  new marks int mark for mark in marks new marks 
+Decoded sentence: How How Python 
+
+Input sentence: elif dig and sch and low and upp and len and len true tmp this me1 if isdigit and dig dig elif fine for in if isdigit and dig dig elif isupper and upp upp elif islower and low low elif re search and sch sch if dig and sch and low and upp and len and len true tmp true false  
+Decoded sentence: How How Python 
+
+Input sentence: series map series dataframe set index grade df2 retrieved values df2 subjects selected map df set index subjects grade print df2 subjects selected retrieved values astronomy geography geometry history dataframe merge subjects subjects selected grade retrieved values df2 df2 merge df rename columns how left print df2 subjects selected retrieved values astronomy geography geometry history
+Decoded sentence: How How Python 
+
+Input sentence: match cnt sum sum for in if count for in zip words
+Decoded sentence: How How Python 
+
+Input sentence: this sentence is string words for in split if len print words sentence string filter lambda this sentence is string words list filter lambda len split print words sentence string
+Decoded sentence: How How Python 
+
+Input sentence: op append currpath op append list currpath class node def init self val left none right none self val val self left left self right right root node node node node node node node node none node def treepaths root op currpath def path root if not root return currpath append root val path root left if not root left and not root right op append list currpath path root right currpath pop path root return op print treepaths root 
+Decoded sentence: How How Python 
+
+Input sentence: numpy histogram2d dz hist flatten
+Decoded sentence: How How Python 
+
+Input sentence: def del self print deleting the form
+Decoded sentence: How How Python 
+
+Input sentence: import pandas as pd read csv file into data frame df pd read csv file csv perform your operation on row1 row1 df iloc delete row from the data frame df df iloc reset index drop true df now contains everything in the csv except row save new csv as desired df to csv file csv this will overwrite the original csv file
+Decoded sentence: How How Python 
+
+Input sentence: cotacao import json import requests requests get https olinda bcb gov br olinda servico ptax versao v1 odata cotacaodolardia datacotacao datacotacao datacotacao top format json select cotacaovenda if status code cotacao json loads content print cotacao value cotacaovenda
+Decoded sentence: How How Python 
+
+Input sentence: merge crosstab dataframe rename axis df df merge df on tag df pd crosstab df obj df obj rename axis none rename axis none axis print df     
+Decoded sentence: How How Python 
+
+Input sentence: plt style use seaborn white np random seed sizes np random randint data np array sizes bins plt hist data bins alpha density true plt grid axis alpha bin centers bins bins bin diff np diff bin centers bin centers np insert bin centers bin centers np insert bin centers len bin centers bin centers bin diff np insert np insert len plt plot bin centers plt xlabel length nts plt ylabel frequency plt title length distribution
+Decoded sentence: How How Python 
+
+Input sentence: checkmemory len previousstates for return
+Decoded sentence: How How Python 
+
+Input sentence: bool cool equality method bool class def init self value int self value value def bool self return self value   if print this happens if print this doesn happen this happens
+Decoded sentence: How How Python 
+
+Input sentence:  hastag list  randint tag  hashtag list  tag  hashtag list randint randint random choice hashtag list from random import choice hashtag list urban hipster retro for hashtag in hashtag list tag choice driver get https www instagram com explore tags hashtag list tag sleep
+Decoded sentence: How How Python 
+
+Input sentence: update sd short name sd short name sd for def to dictionaries  for in range len sd sd long name long name sd iso code iso code sd iso short iso short sd iso long iso long sd capital capital short name sd return
+Decoded sentence: How How Python 
+
+Input sentence: pattern import nltk sent am good wash the dishes pattern set flag to allow verbose regexps za abbreviations both upper and lower case like \w \w words with optional internal hyphens these are separate tokens includes nltk regexp tokenize sent pattern output am good wash the dishes za 
+Decoded sentence: How How Python 
+
+Input sentence: years in business for key in company data result info print company name key get company name print country name key get country name print date founded key get date founded print years in business key get add info years in business output company name apples company country name america date founded years in business over company name car company country name spain date founded years in business over company name pie company country name germany date founded years in business over
+Decoded sentence: How How Python 
+
+Input sentence: product itertools from itertools import product result list product range range    product for tup in product range do something with tup
+Decoded sentence: How How Python 
+
+Input sentence: favicon ico
+Decoded sentence: How How Python 
+
+Input sentence: dataframe select dtypes mean sum count series reindex inverse boolean indexing np random seed df pd dataframe np random choice np nan size assign print df   nan nan nan nan nan nan nan nan nan   nan nan nan nan threshold df1 df select dtypes float isnull mean reindex df columns fill value false df df loc df1 threshold print df   nan nan nan nan      nan nan
+Decoded sentence: How How Python 
+
+Input sentence: virtualenv virtualenv usr bin python3 venv source activate venv pip install zappa
+Decoded sentence: How How Python 
+
+Input sentence: from pil import image import numpy as np pixels convert the pixels into an array using numpy array np array pixels dtype np uint8 use pil to create an image from the new array of pixels new image image fromarray array new image save new png image out image new image mode image size image out putdata pixels image out save test out png
+Decoded sentence: How How Python 
+
+Input sentence: df id ffill df id bfill df loc id alternative df id df id mask print df date id nan     nan      nan
+Decoded sentence: How How Python 
+
+Input sentence: pyqt5 qt5 qt signals qserialport
+Decoded sentence: How How Python 
+
+Input sentence: words rand words join sample words words
+Decoded sentence: How How Python 
+
+Input sentence: print df col1 col2         df1 pd dataframe df groupby col1 col2 apply list to dict print df1     
+Decoded sentence: How How Python 
+
+Input sentence: array name idx np argwhere array name array name idx value 
+Decoded sentence: How How Python 
+
+Input sentence: pythonunbuffered docker run pythonunbuffered your image 
+Decoded sentence: How How Python 
+
+Input sentence:  sep print for in range print format format round sep 52m 83m 13m 44m 74m 05m
+Decoded sentence: How How Python 
+
+Input sentence: if hs and hs if not feature1 in features print you have enough hs points to unlock new feature conf input do you want to unlock new feature if conf yes features append feature1 locked features remove feature1 hs hs print you have unlocked feature1 print your available feature are features print you now have hs hs points if hs and hs if not feature2 in features features append feature2 locked features remove feature2 hs hs print you have unlocked feature2 print your available feature are features print you now have hs hs points
+Decoded sentence: How How Python 
+
+Input sentence: filter map list map lambda multiarrayele list filter lambda innerarrayele search innerarrayele multiarrayele multiarray
+Decoded sentence: How How Python 
+
+Input sentence: itertools product import itertools for in itertools product range repeat arr for in itertools product range range range range arr
+Decoded sentence: How How Python 
+
+Input sentence: webdriver driver webdriver driver get https www instagram com accounts login source auth switcher driver webdriver
+Decoded sentence: How How Python 
+
+Input sentence: words foo bar for in words for in 
+Decoded sentence: How How Python 
+
+Input sentence: pygame surface   list surface blit self sheet self handle handle self handle handle self cells cellindex self handle handle self handle handle self cells cellindex hdl self handle handle cell self cells cellindex surface blit self sheet hdl hdl cell cell
+Decoded sentence: How How Python 
+
+Input sentence:  is prime false false true primes for in range if is prime primes append for in range is prime false print len primes which is really the number of primes below million print primes
+Decoded sentence: How How Python 
+
+Input sentence: import pandas as pd import numpy as np import math df pd dataframe  index pd date range periods freq 15t columns values df zero idx np where df values np cumsum np where df values total number of zeros zeros max df zero idx get past at least this percentage tolerance the rank of the abovementioned zero rank tolerance math ceil tolerance zeros df df zero idx rank tolerance index out datetimeindex dtype datetime64 ns freq 15t
+Decoded sentence: How How Python 
+
+Input sentence: dataframe fillna nan df fillna df mean df df fillna df mean
+Decoded sentence: How How Python 
+
+Input sentence: dict dict src popitem for in range setup src for in range def method dst while len dst item popitem dst item item return dst def method return dict popitem for in range import timeit print method timeit timeit method src setup setup number print method timeit timeit method src setup setup number method method
+Decoded sentence: How How Python 
+
+Input sentence: id ember1203 dropdownbutton driver find element by css selector nav settings dropdown trigger dropdownbutton click signoutbutton driver find element by xpath href logout signoutbutton click
+Decoded sentence: How How Python 
+
+Input sentence: poly plt plot poly label poly poly  xi np linspace plt plot xi poly xi
+Decoded sentence: How How Python 
+
+Input sentence: appconfig def ready self import users signals users signals apps py from users models import some model appconfig get model
+Decoded sentence: How How Python 
+
+Input sentence: user py class def func1 class def func1 class common def func1 if volatile return func1 self else return func1 self commonobj common volatile func1
+Decoded sentence: How How Python 
+
+Input sentence: speech1 lines speech1 content readlines speech1 first sentences line split for line in speech1 lines print speech1 first sentences for sentence in speech1 first sentences print sentence
+Decoded sentence: How How Python 
+
+Input sentence: df df replace np inf df df replace np inf np inf fillna
+Decoded sentence: How How Python 
+
+Input sentence: open
+Decoded sentence: How How Python 
+
+Input sentence: import requests from collections import abc from bs4 import beautifulsoup as bs def nested dict iter nested for key value in nested items if isinstance value abc mapping yield from nested dict iter value else yield key value requests get https www walgreens com store walgreens wal zyr hour allergy tablets id prod6205762 product soup bs content lxml for script in soup find all script if tier1category in script text json loads script text str script text index str script text rindex for in list nested dict iter if tier1category print
+Decoded sentence: How How Python 
+
+Input sentence: in true if string1 lower rstrip in remove from list del from list if string1 lower rstrip remove from list or string1 lower rstrip del from list string1 lower rstrip remove from list or del from list true else true string1 lower rstrip remove from list or true true
+Decoded sentence: How How Python 
+
+Input sentence: supervisord nohup myscript conf program myscript command usr bin python3 home seluser python myscript py autostart true autorestart true startretries user seluser copy entry point sh opt bin entry point sh run dos2unix opt bin entry point sh chmod opt bin entry point sh docker selenium etc supervisor conf copy myscript conf etc supervisor conf
+Decoded sentence: How How Python 
+
+Input sentence: iframe iframe from selenium import webdriver from selenium webdriver support ui import webdriverwait from selenium webdriver common by import by from selenium webdriver support import expected conditions as ec get the chrome webdriver path file browser webdriver chrome executable path program files x86 google chrome application chromedriver exe browser get http foreclosures guilfordcountync gov browser switch to frame browser find element by name ctl06 wait webdriverwait browser wait until ec presence of element located by id cmdaccept element browser find element by id cmdaccept element click
+Decoded sentence: How How Python 
+
+Input sentence: rows cols len  range  range cols def findstartingpoint matrix nodatavalue rows cols rowcounter colcounter for rowcounter in range rows for colcounter in range cols currentvalue matrix rowcounter colcounter if currentvalue nodatavalue return rowcounter colcounter for colcounter in range len matrix rowcounter
+Decoded sentence: How How Python 
+
+Input sentence: try except import wget import urllib urls https www annonces com appartement louer cote hotel solazur imgh1552740173 img20190316wa00061 jpg https www annonces com proche ouarzazate vends kasbah maison hotes imgh1376736359 piscine chauffee jpg badurl jpeeg https www annonces com bel appartement en bord de mer imgh1541404860 img20180826wa0065 jpg https www annonces com appartement louer cote hotel solazur imgh1552740173 img20190316wa00061 jpg for url in urls try wget download url except urllib error urlerror continue
+Decoded sentence: How How Python 
+
+Input sentence: groupby cumsum df groupby df dir df dir shift eq cumsum daily return cumsum       name daily return dtype float64 duplicated df dir df dir shift eq cumsum df new df groupby daily return cumsum mask duplicated keep last df date daily return dir size return new      
+Decoded sentence: How How Python 
+
+Input sentence: re sub re sub ah \1 string
+Decoded sentence: How How Python 
+
+Input sentence: integerfield movie cd int movie idx int charfield
+Decoded sentence: How How Python 
+
+Input sentence: dict keys list alphabet abcdefghi def histogram dict for in if not in  else  return def missing characters histogram global alphabet for in list if in alphabet del missing characters abc
+Decoded sentence: How How Python 
+
+Input sentence: import pandas as pd pd series value counts normalize true sort false
+Decoded sentence: How How Python 
+
+Input sentence: counter my max max index if len lis my max max index else for in range len lis if lis lis counter else counter if counter my max my max counter max index print occurences my max mode lis max index
+Decoded sentence: How How Python 
+
+Input sentence: cron atd
+Decoded sentence: How How Python 
+

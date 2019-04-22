@@ -1,6 +1,6 @@
 import nltk
 
-def main:
+def main():
 	pass
 
 if(__name__=='__main__'):
