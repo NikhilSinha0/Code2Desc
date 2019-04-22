@@ -2,3 +2,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 data/raw_data_full.csv filter=lfs diff=lfs merge=lfs -text
 data/raw_data_titles.csv filter=lfs diff=lfs merge=lfs -text
+s2s.h5 filter=lfs diff=lfs merge=lfs -text
